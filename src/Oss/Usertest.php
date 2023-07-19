@@ -4,7 +4,8 @@ namespace Lcatest\TestnewSdk\Oss;
 class Usertest
 {
     public function getuserinfo(){
-        return "test测试";
+
+        return "test测试v2";
     }
 
 }
