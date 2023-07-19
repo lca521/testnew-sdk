@@ -1,0 +1,12 @@
+{
+    "name": "lcatest/testnew-sdk",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lcatest\\TestnewSdk\\": "src/"
+        }
+    },
+    "require": {}
+}
